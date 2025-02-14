@@ -1,9 +1,7 @@
 # CHATBOOT
 A simple chatbot with voice input and more which help you to get better experiance
 How to Use the Chatbot
-
 Open index.html in a Web Browser:
-
 The chatbot is designed to run in a modern web browser (Chrome, Firefox, Safari, Edge). Simply open the index.html file in your browser.
 
 Grant Microphone Permissions (if prompted):
@@ -88,6 +86,3 @@ If the chatbot doesn't know the answer, it will provide a link to a Google searc
 
 The Quick Replies will suggest related questions based on the user's last input.
 
-Important Note:
-
-The chatbot's knowledge is limited to the information programmed into it. It is not capable of understanding or responding to arbitrary questions
